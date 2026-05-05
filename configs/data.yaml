@@ -1,4 +1,4 @@
-path: datasets/Aero-engine_defect-detect_new
+path: /root/yolo8/yyc-seg/datasets/aero-engine-2class
 train: images/train
 val: images/val
 

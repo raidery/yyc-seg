@@ -7,7 +7,7 @@ import shutil
 from pathlib import Path
 
 # 原始数据集路径
-SRC_ROOT = Path("datasets/Aero-engine_defect-detect_new")
+SRC_ROOT = Path("/root/autodl-tmp/Aero-engine_defect-detect_new")
 SRC_LABELS = SRC_ROOT / "labels"
 SRC_IMAGES = SRC_ROOT / "images"
 
