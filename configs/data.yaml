@@ -1,0 +1,8 @@
+path: datasets/Aero-engine_defect-detect_new
+train: images/train
+val: images/val
+
+nc: 2
+names:
+  0: scratch
+  1: damage

@@ -1,0 +1,33 @@
+# 预训练模型
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 训练输出
+runs/
+weights/
+
+# 数据集（按需启用）
+# datasets/
+# test_data/
+
+# OS
+.DS_Store
+*.swp
+
+# ONNX/TensorRT
+*.onnx
+*.engine
+
+datasets
+datasets/
+

@@ -1,0 +1,6 @@
+ultralytics==8.2.89
+opencv-python
+pillow
+numpy
+pandas
+pycocotools
